@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pT1_gland_mask_dataset.iml" filepath="$PROJECT_DIR$/.idea/pT1_gland_mask_dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pT1-gland-mask-dataset/.idea/pT1-gland-mask-dataset.iml" filepath="$PROJECT_DIR$/../pT1-gland-mask-dataset/.idea/pT1-gland-mask-dataset.iml" />
     </modules>
   </component>
 </project>
